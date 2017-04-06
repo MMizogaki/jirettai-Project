@@ -1,10 +1,7 @@
 # jirettai-Slack-Project
 
 
-https://overv.io/jirettai/jirettai-Slack-Project/board/
+#### overv.io https://overv.io/jirettai/jirettai-Slack-Project/board/
 
 
-tesuto
-
-
-jklsajkjk------
+#### githubDeskTop http://blog.tai2.net/github_client_howto.html#id15
