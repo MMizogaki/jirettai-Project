@@ -227,7 +227,7 @@ Q：Quality：他社に負けない品質をどうやって達成するのか？
 
 以        上
 
-#### overv.io https://overv.io/jirettai/jirettai-Slack-Project/board/
+#### overv.io https://overv.io/jirettai/jirettai-Project/board/
 
 
 #### githubDeskTop http://blog.tai2.net/github_client_howto.html#id15
