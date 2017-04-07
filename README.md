@@ -135,6 +135,7 @@ Figure 2　コスト比較
 
 ・事業スキームは，ビジネスの流れは？製品・サービスの提供方法は？        納入先・販売先は？        お金の流れは？
 
+![ソフトウェア市場](http://blog.masubuchihd.com/wp/wp-content/uploads/2017/4-7-1.png)
 
 Figure 3　ソフトウェア市場の成長予想
 
