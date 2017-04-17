@@ -1,11 +1,13 @@
-# jirettai-Slack-Project
-平成29年        月        日
+## <a name="1">jirettai-Slack-Project
+### 平成29年 4月 5日
 
+## 代表者 所属名 合同会社じれったい 氏名　溝垣 雅人        印
+<br>
 
+<p align="center">
+-記- 
+</p>
 
-代表者                所属名JIRETTAI                 氏名　        印
-
-記
 
 １．事業化構想の名称
 
