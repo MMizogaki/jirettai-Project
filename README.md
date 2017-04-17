@@ -1,7 +1,9 @@
-## <a name="1">jirettai-Slack-Project
-### 平成29年 4月 5日
+# <a name="1">jirettai-Slack-Project
 
-## 代表者 所属名 合同会社じれったい 氏名　溝垣 雅人        印
+<p align="right">
+平成29年 4月 5日
+</p>
+### 代表者 所属名 合同会社じれったい 氏名　溝垣 雅人        印
 <br>
 
 <p align="center">
