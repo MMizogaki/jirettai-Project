@@ -4,9 +4,7 @@
 平成29年 4月 5日<br>
 代表者 溝垣 雅人<br>
 所属名 合同会社じれったい<br>
- ![QA](resouceFile/jirettai.jpg)<br>
-</p>
-<br>
+![QA](resouceFile/jirettai.jpg)</p>
 
 <p align="center">
 -記-
