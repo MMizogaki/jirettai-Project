@@ -5,7 +5,7 @@
 代表者 溝垣 雅人<br>
 所属名 株式会社じれったい<br>
 </p>
-![QA](resouceFile/jirettai.jpg)
+![QA](resouceFile/Group@2x.png)
 
 <p align="center">
 -記-
