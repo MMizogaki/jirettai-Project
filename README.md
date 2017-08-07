@@ -13,10 +13,12 @@
 </p><br>
 
 
-１．事業化構想の名称 「開発環境支援システムの構築」
-> #### ソフトウェア品質テスト自動化ツール SENJU
+### 事業化構想の名称 「ソフトウェア品質テスト自動化ツール SENJU」
+<br>
+![QA](resouceFile/1.png)
+<br>
 
-2．代表者及び共同製作者
+### 代表者及び共同製作者
 
 |  氏名 | 所属 |
 | --- | --- |
@@ -25,10 +27,7 @@
 | 柴田 幸輝 | 合同会社じれったい Chief Technology Officer |  
 | 神谷 小太郎| 合同会社じれったい Chierf Information Officer |  
 | 小林 宏知 |  合同会社じれったい Software Development Kit Programmer | 
-
-### 表紙
-![QA](resouceFile/1.png)
-
+<br>
 
 ### 品質保証テストとは
 
