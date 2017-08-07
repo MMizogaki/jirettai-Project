@@ -3,10 +3,10 @@
 <p align="right">
 平成29年 4月 5日<br>
 代表者 溝垣 雅人<br>
-所属名 株式会社じれったい<br>
+所属名 株式会社じれったい
 </p>
 
-![QA](resouceFile/Group@2x.png)
+![QA](resouceFile/2.png)
 
 <p align="center"> -記- </p>
 
