@@ -18,15 +18,15 @@
 
 |  氏名 | 所属 |
 | --- | --- |
-| 溝垣 雅人 | Chief Executive Officer | 
-| 大堀 祐一 | Product Designer | 
-| 柴田 幸輝 | Chief Technology Officer |   
-| 神谷 小太郎| Chierf Information Officer |  
-| 小林 宏知 |  Software Development Kit |  
+| 溝垣 雅人 | 合同会社じれったい  CEO & Programmer |
+| 大堀 祐一 | 合同会社じれったい  Product Designer & 株式会社DenDesign CEO|
+| 柴田 幸輝 | 合同会社じれったい Chief Technology Officer |  
+| 神谷 小太郎| 合同会社じれったい Chierf Information Officer |  
+| 小林 宏知 |  合同会社じれったい Software Development Kit Programmer | 
 
 ## 表紙
 ソフトウェアの品質テスト自動化ツール<br>
-SENJU Cat
+SENJU
 
 
 ## 品質保証テストとは
