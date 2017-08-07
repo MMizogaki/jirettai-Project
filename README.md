@@ -1,4 +1,4 @@
-# Jirettai-Project-事業計画書
+# Jirettai-Senju-Project-事業計画書
 
 <p align="right">
 平成29年 4月 5日<br>
