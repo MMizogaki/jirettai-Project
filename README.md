@@ -14,8 +14,7 @@
 
 
 ### 事業化構想の名称 「ソフトウェア品質テスト自動化ツール SENJU」
-<br>
-![QA](resouceFile/1.png)
+![hyousi](resouceFile/1.png)
 <br>
 
 ### 代表者及び共同製作者
