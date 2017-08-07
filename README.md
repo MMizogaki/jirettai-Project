@@ -10,9 +10,7 @@
 
 <p align="center">
 -記-
-</p><br>
-
-
+</p>
 ### 事業化構想の名称 「ソフトウェア品質テスト自動化ツール SENJU」
 ![hyousi](resouceFile/1.png)
 <br>
