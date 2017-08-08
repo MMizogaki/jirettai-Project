@@ -23,6 +23,8 @@
 | 柴田 幸輝 | 合同会社じれったい Chief Technology Officer |  
 | 神谷 小太郎| 合同会社じれったい Chierf Information Officer |  
 | 小林 宏知 |  合同会社じれったい Software Development Kit Programmer | 
+
+![hinshitu](resouceFile/4.png)<br>
 <br>
 
 ### 品質保証テストとは
