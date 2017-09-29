@@ -19,7 +19,7 @@
 |  氏名 | 所属 |
 | --- | --- |
 | 溝垣 雅人 | 合同会社じれったい  CEO & Programmer |
-| 大堀 祐一 | 合同会社じれったい  Product Designer & 株式会社DenDesign CEO|
+| 大堀 祐一 | 合同会社じれったい  Product Designer |
 | 柴田 幸輝 | 合同会社じれったい Chief Technology Officer |  
 | 神谷 小太郎| 合同会社じれったい Chierf Information Officer |
 
@@ -29,7 +29,7 @@
 今後もソフトウェアによって多様な品質改善のビジネスを提案していく<br>  
 
 #### 大堀 祐一 プロフィール
-株式会社DenDesign CEO 今回のプロダクトに情熱と魂を込めてアサイン<br>
+今回のプロダクトに情熱と魂を込めてアサイン<br>
 代表の溝垣とはリクルートキャリアにてアプリ開発チームでのチームメイト<br>
 現在もプロダクトデザイナーとして様々な案件に関わる。 
 
@@ -324,16 +324,11 @@ QAエンジニアを0にするのが我々の目標であるが，50社から採
 
 
 # １１．Exit 戦略
-
 上場(IPO)に向けて組織体制を整え，十分な売上を確保していく．
 
 
 
 以        上
-
 #### overv.io https://overv.io/jirettai/jirettai-Project/board/
-
-
 #### githubDeskTop http://blog.tai2.net/github_client_howto.html#id15
-
 #### GithubMark https://guides.github.com/features/mastering-markdown/
