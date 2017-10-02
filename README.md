@@ -67,7 +67,7 @@ QAテスト専門の会社も存在<br>
 ## 競合サービース
 
 ## targetについて！
-
+![target](resouceFile/target.png)<br>
 
 ## マーケットサイズ
 
