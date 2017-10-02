@@ -126,8 +126,14 @@ GoogleAnalyticsのようにいれる<br>
 
 
 ### デモ
-比較の画面があり<br>
+![task(resouceFile/03_task.png)<br>
+新旧の画面差分をハイライト。問題のある差分はgithubへタスク登録<br>
+
+![story(resouceFile/02_story.png)<br>
 ストーリーの中に複数のシナリオ<br>
+
+![dashboard(resouceFile/01_dashboard.png)<br>
+チーム内でのテスト状況を確認
 
 ## 競合サービス
 ### appium
